@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: (https://github.com/HediElOuni/Price)
-- Live Site URL: ()
+- Solution URL: https://github.com/HediElOuni/Price
+- Live Site URL: https://hedielouni.github.io/Price/
 
 ## My process
 
