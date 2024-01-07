@@ -8,8 +8,6 @@
 
 ## Overview
 
-### The challenge
-
 ### Screenshot
 
 ![](./images/screenshot.png)
